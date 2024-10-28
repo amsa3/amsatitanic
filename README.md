@@ -3,7 +3,7 @@ This is an ongoing project which I'm using to practice R and put statistical con
 
 The logistic model is there to give direction to the project, but in practice I'll be applying other statistical procedures even if they are tangential to that purpose.
 
-<u>This document includes all the R code I use, the calculations required to manually obtain some statistical values, and the thought process I go through at every point.</u> It will undoubtedly contain errors.
+<u>This document includes all the R code I use, the calculations required to manually obtain some statistical values, and the thought process I go through at every point.</u> It's pretty bloated, and it will only become even more so as I add new sections. It will also undoubtedly contain errors.
 
 The document is split into collapsible sections to ease navigation. I found this approach worked better vs using a table of contents, at least for the time being.
 
